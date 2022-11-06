@@ -1,0 +1,26 @@
+body {
+    background-color: #0d0d0d;
+}
+
+#toph1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #f8b423;
+    text-align: center;
+}
+
+.toph1 {
+    height: auto;
+    width: 1200px;
+    background-color: #111111;
+    margin: auto;
+}
+
+.header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    opacity: 80%;
+}
