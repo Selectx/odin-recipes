@@ -20,7 +20,36 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: auto;
-    width: auto;
+    height: 250px;
+    width: 1500px;
     opacity: 80%;
+}
+
+#toph3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+    color: #7fd652;
+}
+
+.toph3 {
+    background-color: #111111;
+    height: 150px;
+    width: 600px;
+    margin-left: 50px;
+}
+
+.lasagna,
+.pie,
+.sandwich {
+    font-size: 20px;
+    color: #f8b423;
+}
+
+a:link {
+    color: #7fd652;
+}
+
+a:visited {
+    color: #1c5300;
 }
